@@ -26,3 +26,7 @@ docker-compose down
 
 ### Create table and retrieve data from MongoDb using python
 Follow the jupyter notebook code 
+
+### Trobleshooting
+In case docker-compose is not installed, follow this page for install  
+https://github.com/docker/compose/releases
